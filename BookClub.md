@@ -4,10 +4,9 @@
 
 <h2>Currently Reading</h2>
 <p><a href="https://www.amazon.com/gp/product/1934356050" target="_blank">Pragmatic Thinking and Learning: Refactor Your Wetware</a> by Andy Hunt</p>
-<p>To get a Thinkful-sponsored copy, let Emma know and fill out the slack poll re: which version you prefer. </p>
 
 <h2>Next Meeting</h2>
-TBD. Fill out the poll on the #portland slack channel to indicate your preferred time.
+<p>Sunday, March 25 from 4-6pm at 926 NE 44th Avenue, Apartment 1, Portland 97213. Please RSVP to the<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NDMwbWgxdTdiN2NqcG92dmU3ZDg1b2ZwcWsgbW9sbHlqZWFuYmVubmV0dEBt&amp;tmsrc=mollyjeanbennett%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif">Google Calendar event</a>if you wish to attend</p>
 
 <h2>Books for Future Consideration</h2>
 <ul>
