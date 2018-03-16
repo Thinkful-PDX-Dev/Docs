@@ -2,6 +2,7 @@
 ## General coding resources
 #### [Codewars](https://www.codewars.com/)
 #### [Codefights](https://codefights.com/)
+#### [The Odin Project](https://www.theodinproject.com)
 ## CSS/HTML resources
 #### [What The Flexbox?!](https://flexbox.io/)
 #### [CSS Grid](https://cssgrid.io/)
