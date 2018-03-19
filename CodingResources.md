@@ -13,3 +13,5 @@
 ## Node resources
 ## React resources
 ## Data Structures / Algorithms resources
+#### [duereg/js-algorithms](https://github.com/duereg/js-algorithms)
+#### [jamiebuilds/itsy-bitsy-data-structures](https://github.com/jamiebuilds/itsy-bitsy-data-structures)
