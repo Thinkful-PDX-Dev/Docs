@@ -6,7 +6,7 @@
 <p><a href="https://www.amazon.com/gp/product/1934356050" target="_blank">Pragmatic Thinking and Learning: Refactor Your Wetware</a> by Andy Hunt</p>
 
 <h2>Next Meeting</h2>
-<p>Sunday, March 25 from 4-6pm at 926 NE 44th Avenue, Apartment 1, Portland 97213. Please RSVP to the<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MDB2bm1lM2tjc2w2dTJnam9vOXAzaTRvOHQgbW9sbHlqZWFuYmVubmV0dEBt&amp;tmsrc=mollyjeanbennett%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif">Google Calendar event</a> if you wish to attend</p>
+<p>Sunday, March 25 from 5-7pm at 926 NE 44th Avenue, Apartment 1, Portland 97213. Please RSVP to the<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MDB2bm1lM2tjc2w2dTJnam9vOXAzaTRvOHQgbW9sbHlqZWFuYmVubmV0dEBt&amp;tmsrc=mollyjeanbennett%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif">Google Calendar event</a> if you wish to attend</p>
 
 <h2>Books for Future Consideration</h2>
 <ul>
