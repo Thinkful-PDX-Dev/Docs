@@ -18,3 +18,8 @@ TBD
 
 
 Please submit a PR to add book suggestions!
+
+### Robert's suggestions
+* The Power of Habit by Charles Duhigg
+* A Smarter Way to Learn JavaScript by Mark Myers
+* Eloquent JavaScript by Marijn Haverbeke
